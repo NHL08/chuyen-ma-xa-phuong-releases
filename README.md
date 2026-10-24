@@ -1,10 +1,13 @@
-# Chuyển đổi mã xã phường
+# KSK Doanh nghiệp
 
 <img src="AppIcon.png" width="128" alt="icon">
 
-Điền mã xã/phường, tỉnh/TP theo **địa giới hành chính mới (từ 01/07/2025)** cho file danh sách khám sức khỏe:
-tự điền cột J (địa chỉ mới), AC (mã xã), AE (mã tỉnh) từ hộ khẩu thường trú – nhận cả địa chỉ mới lẫn địa chỉ cũ – và
-tạo file nhập EHC từ danh sách nhân viên công ty gửi. Ứng dụng Windows chạy hoàn toàn trên máy.
+Ứng dụng Windows hỗ trợ **khám sức khỏe cho doanh nghiệp**: mở danh sách nhân viên công ty gửi (Excel, PDF – cả bản
+quét) → tạo file nhập EHC, giấy khám sức khỏe cả đoàn; lịch khám theo ngày dùng chung giữa các máy; báo giá → file dịch
+vụ doanh nghiệp chọn; tra mã số thuế, địa chỉ doanh nghiệp; tự điền mã xã/phường, tỉnh/TP theo **địa giới hành chính
+mới (từ 01/07/2025)** – nhận cả địa chỉ mới lẫn địa chỉ cũ. Thông tin nhân viên chỉ xử lý trên máy.
+
+(Trước đây tên là "Chuyển đổi mã xã phường".)
 
 Tác giả: **NHL** · Phiên bản mới nhất: xem [Releases](https://github.com/NHL08/chuyen-ma-xa-phuong-releases/releases/latest)
 
@@ -19,7 +22,8 @@ Lần đầu chạy, Windows có thể hiện "Windows protected your PC" (bộ 
 
 ## Cập nhật
 
-Ứng dụng tự kiểm tra phiên bản mới mỗi khi mở; bấm **Xem và cập nhật** là tự tải, kiểm tra mã SHA-256 và cài.
+Ứng dụng tự kiểm tra phiên bản mới khi mở và trong lúc đang dùng; bấm **Cập nhật ngay** là tự tải, kiểm tra mã SHA-256
+và cài.
 
 ## Nguồn phát hành (JSON)
 
